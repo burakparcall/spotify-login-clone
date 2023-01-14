@@ -1,0 +1,184 @@
+.spotify-logo {
+    display: flex;
+    padding: 25px;
+    height: 105px;
+    justify-content: center;
+}
+
+.line {
+    border-top: 1px solid rgb(217, 218, 220);
+}
+
+.log-in {
+    display: block;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-group {
+    display: block;
+    width: 480px;
+    margin-top: 35px;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.btn-primary {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 450px;
+    height: 50px;
+}
+
+.continue {
+    display: inline-block;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    padding: 5px;
+}
+
+.btn-dark {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 450px;
+    height: 50px;
+}
+
+.fa-apple {
+    font-size: 20px;
+}
+
+.google-logo{
+    background: url(https://accounts.scdn.co/sso/images/google-icon.1cdc8fce9609d07f0e9d8d0bc4b61f8f.svg) center  no-repeat;
+    width: 20px;
+    height: 20px;
+}
+
+.btn-light {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 450px;
+    height: 50px;
+}
+
+.continueGoogle {
+    color: gray;
+}
+
+.lineOr {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 460px;
+}
+
+.line-l {
+    border-top: 1px solid rgb(217, 218, 220);
+    width: 196px;
+}
+
+.or {
+    text-transform: uppercase;    
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+
+.line-r {
+    border-top: 1px solid rgb(217, 218, 220);
+    width: 196px;
+}
+
+.p1 {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    margin-top: 15px;
+}
+
+.login-info {
+    width: 450px;
+    padding: 14px;
+    border-radius: 4px;
+    border: 2px solid gray;
+}
+
+.p2 {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    margin-top: 15px;
+}
+
+.reset-password {
+    margin-top: 10px;
+}
+
+.reset-password a {
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.remember-me {
+    display: inline-flex;
+    margin-bottom: 20px;
+}
+
+.remember-me input {
+    width: 16px;
+}
+
+.p3 {
+    padding: 10px;
+    margin-top: 13px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.login-button {
+    background-color: #1ed760;
+    display: flex;
+    justify-content: center;
+    border: 0px;
+    border-radius: 30px;
+    width: 120px;
+    height: 50px;
+    padding: 12px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.line2 {
+    border: 1px solid rgb(217, 218, 220);
+}
+
+.p4 { 
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center; 
+    margin-top: 25px;
+}
+
+.signUp {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 450px;
+    height: 50px;
+    display: inline-block;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    padding: 5px;
+    color: var(--text-subdued,#6a6a6a);
+}
